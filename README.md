@@ -7,7 +7,7 @@
 - 🖥 I'm a software developer.
 - 🙋‍♂️ I use *He/Him* pronouns.
 - 👀 I’m interested in 🚵 *biking*, 🤘 *music*, and 💻 *software development*.
-- 📫 How to reach me: Colter.Garrison@gmail.com &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kakbar)
+- 📫 How to reach me: Colter.Garrison@gmail.com &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Colter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/colter-garrison/)
 - 😂 Fun fact: I can lick my elbow 👅💪
 ---
 ### 🛠 Languages and Tools:
