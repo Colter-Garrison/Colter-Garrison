@@ -22,7 +22,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
-
+<!-- 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colter-Garrison&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Colter-Garrison&layout=compact&theme=vision-friendly-dark)](https://github.com/Colter-Garrison/github-readme-stats)
+ -->
