@@ -30,7 +30,5 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ---
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=colter-garrison&show_icons=false&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colter-garrison&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
