@@ -2,9 +2,9 @@
 <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 - 😺 I’m **@Colter-Garrison**
-- 🖥 I'm a full-stack software developer.
-- 🙋‍♂️ I use *He/Him* pronouns.
-- 👀 I’m interested in 🚵 *biking*, 🤘 *music*, and 💻 *software development*.
+- 🖥 I'm a software developer
+- 🙋‍♂️ I use *He/Him* pronouns
+- 👀 I’m interested in 🚵 *biking*, 🤘 *music*, and 💻 *software development*
 - 📫 How to reach me: Colter.Garrison@proton.me &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Colter-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/colter-garrison/)
 - 😂 Fun fact: I can lick my elbow 👅💪
 ---
