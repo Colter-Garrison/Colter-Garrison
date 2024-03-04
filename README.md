@@ -29,4 +29,4 @@
 ![Static Badge](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine)
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colter-garrison&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colter-garrison&layout=compact&theme=codeSTACKr&hide=GAP)](https://github.com/anuraghazra/github-readme-stats)
