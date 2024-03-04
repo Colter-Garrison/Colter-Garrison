@@ -28,5 +28,5 @@
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Godot-white?style=for-the-badge&logo=godotengine)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colter-garrison&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
 
